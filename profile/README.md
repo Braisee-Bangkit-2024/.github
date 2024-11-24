@@ -5,7 +5,7 @@
 
 
 ## About
-lorem
+BraiSee is a mobile app designed to empower visually impaired individuals by transforming Braille text into spoken words through real-time image recognition. Using machine learning, BraiSee interprets Braille symbols captured by the phone’s camera, providing immediate voice feedback and saving reading history for later reference. This project addresses a critical accessibility gap, enabling independent access to printed Braille text without additional assistance. With a focus on inclusion and usability, BraiSee’s features aim to foster literacy and improve daily accessibility for visually impaired users, making information access more equitable and seamless.
 
 ## Team Member :
 
