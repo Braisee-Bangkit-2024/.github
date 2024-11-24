@@ -12,11 +12,11 @@ lorem
 | ID           | Name                                | Learning Path | Profile |
 | :------------: | ----------------------------------- | :--------------: | :-------: |
 | A211B4KY0044  | Abiyu Sofyan                      | MD             |    [abiyu793](https://github.com/abiyu793)    |
-| M478B4KX1758  | Helena Alesandra Br Hutagalung    | ML             |    [helena](https://github.com/hollandaputri)     |
-| A156B4KY1952  | Ilman Nurkhoiron                  | MD             |    [ilman](https://github.com/putrisandya)     |
+| M478B4KX1758  | Helena Alesandra Br Hutagalung    | ML             |    [helena](https://github.com/#)     |
+| A156B4KY1952  | Ilman Nurkhoiron                  | MD             |    [ilman](https://github.com/#)     |
 | C478B4KY2159  | Kelvin                            | CC             |    [LiauKelvin](https://github.com/LiauKelvin)     |
 | C370B4KY3314  | Nenda Alfadil Seputra             | CC             |    [FadilSeputra](https://github.com/FadilSeputra)     |
-| M010B4KX4023  | Salma Salsabila                   | ML             |    [salma](https://github.com/satrio142)     |
+| M010B4KX4023  | Salma Salsabila                   | ML             |    [salma](https://github.com/#)     |
 | M478B4KX4323  | Tessa Juniar                      | ML             |    [tessajuniar](https://github.com/tessajuniar)     |
 
 ## Repositories
