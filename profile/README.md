@@ -1,6 +1,6 @@
 # BraiSee : Brailee Application
 <div align="center">
-<img src="#" width="50%" height="50%" >
+<img src="![braille](https://github.com/user-attachments/assets/07b2957f-6423-4566-975e-54d468786377)" width="50%" height="50%" >
 </div>
 
 
