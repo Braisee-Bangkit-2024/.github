@@ -1,6 +1,6 @@
 # BraiSee : Brailee Application
 <div align="center">
-<img src="https://private-user-images.githubusercontent.com/112694789/389765782-c811462a-0c77-4b92-961a-40c8cb3e2871.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzI1ODcxOTEsIm5iZiI6MTczMjU4Njg5MSwicGF0aCI6Ii8xMTI2OTQ3ODkvMzg5NzY1NzgyLWM4MTE0NjJhLTBjNzctNGI5Mi05NjFhLTQwYzhjYjNlMjg3MS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMTI2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTEyNlQwMjA4MTFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02ZjgyZWFlMGFlODcwMjJkYTQzNGE3Y2RjYTJkNDEyODlmZjE0OTA3NmYzNmI5ZGFhNDU3M2NiNWE0ZWVhMDYzJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.TzfuvG8iOD230NQiwMW7g6qkilalkGPG7Bh4UV5rFlk" width="50%" height="50%" >
+<img src="https://github.com/Braisee-Bangkit-2024/.github/blob/main/profile/Braisee.png" width="50%" height="50%" >
 </div>
 
 
